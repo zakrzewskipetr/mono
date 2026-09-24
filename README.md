@@ -2,7 +2,7 @@
 
 Support and privacy pages for MONO — single-purpose iOS apps.
 
-- Support: https://zakrzewskipetr.github.io/mono/
-- Privacy: https://zakrzewskipetr.github.io/mono/privacy.html
+- Support: https://monoism.studio/support/
+- Privacy: https://monoism.studio/privacy/
 
 Font: Mona Sans (SIL Open Font License, see `MonaSans-OFL.txt`).
